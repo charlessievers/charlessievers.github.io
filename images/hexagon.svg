@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Hexagon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="622.85714 : 849.03824 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2995" />
+    <inkscape:perspective
+       id="perspective2995-7"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="622.85714 : 849.03824 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="325.02552"
+     inkscape:cy="620.83358"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="10000"
+     objecttolerance="10000"
+     inkscape:window-width="1090"
+     inkscape:window-height="644"
+     inkscape:window-x="704"
+     inkscape:window-y="191"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.752;fill:#666666;fill-opacity:1"
+       d="M 371.03125 266.65625 C 325.29006 266.65625 282.35321 278.68769 245.21875 299.75 L 307.90625 408.4375 L 433.5625 408.5 L 496.46875 299.71875 C 496.46875 299.71875 496.51585 299.67345 496.53125 299.65625 C 496.54855 299.63705 496.5625 299.59375 496.5625 299.59375 C 459.492 278.62922 416.65805 266.65625 371.03125 266.65625 z M 241.46875 301.9375 C 166.87362 345.94426 116.61084 426.77787 115.6875 519.4375 L 241.3125 519.46875 L 304.1875 410.65625 L 241.46875 301.9375 z M 500.6875 302 L 437.90625 410.5625 L 500.71875 519.40625 L 626.375 519.46875 C 625.46306 426.83635 575.23741 346.0246 500.6875 302 z M 115.6875 524.0625 C 116.41042 616.6962 166.44506 697.57093 240.84375 741.75 L 303.53125 632.9375 L 240.90625 524.09375 L 115.6875 524.0625 z M 500.78125 524.46875 L 437.9375 633.28125 L 500.625 742.09375 C 575.23328 698.06229 625.4958 617.19659 626.375 524.5 L 500.78125 524.46875 z M 307.5625 635.5 L 244.8125 744.0625 C 282.04138 765.27001 325.12059 777.40625 371.03125 777.40625 C 416.50371 777.40625 459.20358 765.52041 496.1875 744.6875 L 496.1875 744.65625 L 496.03125 744.4375 L 433.21875 635.53125 L 307.5625 635.5 z "
+       id="path3870" />
+    <path
+       sodipodi:type="star"
+       style="fill:#8a2be2;fill-opacity:1;opacity:0.752"
+       id="path3023-3-6"
+       sodipodi:sides="6"
+       sodipodi:cx="291.42856"
+       sodipodi:cy="300.93362"
+       sodipodi:r1="343.04758"
+       sodipodi:r2="297.08792"
+       sodipodi:arg1="1.047518"
+       sodipodi:arg2="1.5711168"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 462.85714,598.07649 119.80958,597.96656 -51.619001,300.8237 119.99998,3.7907586 463.04754,3.9006878 634.47612,301.04355 z"
+       transform="matrix(0.366329,0,0,0.366329,263.91119,411.71921)" />
+  </g>
+</svg>
