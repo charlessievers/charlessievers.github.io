@@ -3366,7 +3366,7 @@ input, select, textarea {
                                 background-image: url("../../images/hexagon.svg");
                                 background-position: center, center;
                                 background-repeat: no-repeat;
-                                background-size: 4em 4em;
+                                background-size: 4em auto;
 				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
 				cursor: default;
